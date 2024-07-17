@@ -3,7 +3,7 @@
 <br>
 
 🌐 Estudante de Sistemas para Internet | Desenvolvedor em Ascensão 🚀<br><br>
-Olá! Sou um estudante apaixonado por tecnologia cursando o 3º semestre de Sistemas para Internet. Minha jornada acadêmica me proporciona conhecimentos sólidos em desenvolvimento de programas, criação de interfaces e aplicativos, bem como habilidades essenciais para o comércio e marketing eletrônicos.
+Olá! Sou um estudante apaixonado por tecnologia cursando o 5º semestre de Sistemas para Internet. Minha jornada acadêmica me proporciona conhecimentos sólidos em desenvolvimento de programas, criação de interfaces e aplicativos, bem como habilidades essenciais para o comércio e marketing eletrônicos.
 
 Sobre o Curso:
 
